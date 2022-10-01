@@ -16,11 +16,12 @@ public class BowlingScoreCalculator {
         int score = 0;
         for (int i = 0; i < scoreArray.length; i++) {
             String frame = scoreArray[i];
-            String[] frameArray = frame.split("");
-            score += parseScore(frameArray[0]);
+            String[] currentFrame = frame.split("");
+            String firstBowlOfFrame = currentFrame[0];
+            score += parseScore(firstBowlOfFrame);
 
-            if (!isAStrike(frameArray)) {
-                score += addSecondBowlOfFrame(frameArray);
+            if (!isAStrike(currentFrame)) {
+                score += addSecondBowlOfFrame(currentFrame);
 
             } else if (isNextFrameAStrike(scoreArray, i)) {
                 score += STRIKE_POINTS;
