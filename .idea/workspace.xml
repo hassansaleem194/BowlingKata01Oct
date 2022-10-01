@@ -59,41 +59,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BowlingScoreFeatureTest.should_return_5_when_a_score_of_5_is_achieved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BowlingScoreFeatureTest.should_return_10_when_you_score_a_strike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BowlingKataSteve" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BowlingScoreFeatureTest" />
-      <option name="METHOD_NAME" value="should_return_5_when_a_score_of_5_is_achieved" />
+      <option name="METHOD_NAME" value="should_return_10_when_you_score_a_strike" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BowlingScoreFeatureTest.should_return_9_when_a_score_of_9_is_achieved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BowlingScoreFeatureTest.should_return_a_completed_game_with_multiple_scores_in_the_whole_game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BowlingKataSteve" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BowlingScoreFeatureTest" />
-      <option name="METHOD_NAME" value="should_return_9_when_a_score_of_9_is_achieved" />
+      <option name="METHOD_NAME" value="should_return_a_completed_game_with_multiple_scores_in_the_whole_game" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BowlingScoreFeatureTest.should_return_a_completed_game_with_0_points (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BowlingScoreFeatureTest.should_return_correct_score_when_you_score_a_strike_and_non_strike_consecutively" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BowlingKataSteve" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BowlingScoreFeatureTest" />
-      <option name="METHOD_NAME" value="should_return_a_completed_game_with_0_points(java.lang.String,int)" />
+      <option name="METHOD_NAME" value="should_return_correct_score_when_you_score_a_strike_and_non_strike_consecutively" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BowlingScoreFeatureTest.should_return_a_completed_game_with_0_points" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BowlingScoreFeatureTest.should_return_correct_score_when_you_score_a_strike_and_non_strikes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BowlingKataSteve" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BowlingScoreFeatureTest" />
-      <option name="METHOD_NAME" value="should_return_a_completed_game_with_0_points" />
+      <option name="METHOD_NAME" value="should_return_correct_score_when_you_score_a_strike_and_non_strikes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,10 +102,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BowlingScoreFeatureTest" />
-        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_a_completed_game_with_0_points (1)" />
-        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_9_when_a_score_of_9_is_achieved" />
-        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_5_when_a_score_of_5_is_achieved" />
-        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_a_completed_game_with_0_points" />
+        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_correct_score_when_you_score_a_strike_and_non_strike_consecutively" />
+        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_correct_score_when_you_score_a_strike_and_non_strikes" />
+        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_10_when_you_score_a_strike" />
+        <item itemvalue="JUnit.BowlingScoreFeatureTest.should_return_a_completed_game_with_multiple_scores_in_the_whole_game" />
       </list>
     </recent_temporary>
   </component>
