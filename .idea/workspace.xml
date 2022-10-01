@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b255f8-6d94-410e-a704-ba03e48efa97" name="Changes" comment="" />
+    <list default="true" id="81b255f8-6d94-410e-a704-ba03e48efa97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codurance/BowlingScoreCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codurance/BowlingScoreCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BowlingScoreFeatureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BowlingScoreFeatureTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,8 +38,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }

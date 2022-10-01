@@ -19,7 +19,7 @@ public class BowlingScoreFeatureTest {
 
     private static Stream<Arguments> scoreCards(){
         return Stream.of(
-                arguments("0-|--|--|--|--|--|--|--|--|--||", 0),
+                arguments("--|--|--|--|--|--|--|--|--|--||", 0),
                 arguments("1-|--|--|--|--|--|--|--|--|--||", 1),
                 arguments("2-|--|--|--|--|--|--|--|--|--||", 2),
                 arguments("3-|--|--|--|--|--|--|--|--|--||", 3),
